@@ -1,0 +1,38 @@
+html,body{
+    height:100%;
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+    height: 60px;
+    font-size: 30px;
+    color:rgb(37, 1, 51);
+    background:darksalmon;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenido{
+    height: 150px;
+    font-size: 30px;
+    color:rgb(37, 1, 51);
+    background:cornsilk;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+footer{
+    display: inline-block;
+    height: 60px;
+    color:rgb(37, 1, 51);
+    background:rgb(67, 55, 78);
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+     align-items: center;
+}
+main{
+    height: 100%;
+}

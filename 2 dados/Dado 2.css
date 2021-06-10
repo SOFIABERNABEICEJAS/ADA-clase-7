@@ -1,0 +1,106 @@
+body{
+    background-color: darkgrey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.todaslascajas {
+
+    display: flex;
+    margin: 0%;
+    
+
+}
+.caja1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:black;
+    background-color: rgb(252, 251, 250);
+    font-size: 120px;
+    border-radius: 12px;
+    margin: 12px;
+    width: 100px;
+    height: 100px;
+    border: 0;
+ 
+   
+}
+
+
+.caja2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:black;
+    background-color: rgb(252, 251, 250);
+    font-size: 120px;
+    border-radius: 12px;
+    margin: 12px;
+    width: 100px;
+    height: 100px;
+    border: 0;
+
+
+
+
+}
+.caja3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:black;
+    background-color: rgb(252, 251, 250);
+    font-size: 120px;
+    border-radius: 12px;
+    margin: 12px;
+    width: 100px;
+    height: 100px;
+    border: 0;
+}
+.caja4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:black;
+    background-color: rgb(252, 251, 250);
+    font-size: 120px;
+    border-radius: 12px;
+    margin: 12px;
+    width: 100px;
+    height: 100px;
+    border: 0;
+    }
+
+.caja5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:black;
+    background-color: rgb(252, 251, 250);
+    border-radius: 12px;
+    font-size: 120px;
+    margin: 12px;
+    width: 100px;
+    height: 100px;
+    border: 0;
+    
+}
+
+
+.caja6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:black;
+    background-color: rgb(252, 251, 250);
+    border-radius: 12px;
+    font-size: 120px;
+    margin: 12px;
+    width: 100px;
+    height: 100px;
+    border: 0;
+ }
+
+
+

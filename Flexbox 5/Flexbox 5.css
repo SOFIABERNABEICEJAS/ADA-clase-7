@@ -1,0 +1,59 @@
+ body {
+    height: 100%;
+    margin: 0%;
+    display: flex;
+     
+}
+    
+  main{
+    width: 100%;
+    }
+    
+.afuera{
+    width: 40%;
+    height: 100%;
+    color: rgb(32, 23, 32);
+    font-size: xx-large;
+    background-color: salmon;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+header{
+height: 60px;
+width: 100%;
+color: rgb(32, 23, 32);
+font-size: xx-large;
+background-color: plum;
+display: flex;
+justify-content:center;
+align-items: center;
+
+}
+.derecha {
+ height: 100%;
+ width: 100%;
+color: rgb(32, 23, 32);
+font-size: xx-large;
+background-color: rgb(253, 244, 253);
+display: flex;
+justify-content:center;
+align-items: center;
+
+}
+Footer {
+    height:60px;
+    width:100%;
+    color: rgb(32, 23, 32);
+    font-size: xx-large;
+    background-color: rgb(248, 182, 204);
+    display: flex;
+    justify-content:center;
+    align-items: center;
+
+  
+
+}
+
+

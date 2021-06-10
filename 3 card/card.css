@@ -1,0 +1,98 @@
+html{
+    height: 100%;
+    margin: 0%;
+    background-color: rgb(109, 109, 219);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+body{
+    height: 100%;
+    width: 30%;
+    border-radius: 8px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 18px;
+   
+
+}
+header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.foto{
+    height: 90px;
+    width: 80px;
+    margin:0%;
+    
+}
+
+h2{
+    color: rgb(113, 134, 155);
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+
+.imagen{
+    height: 15px;
+    width: 15px;
+}
+.main1{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin: 0%;
+    
+}
+
+.likes{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 25px;
+
+
+}
+.likes1{
+    margin: 0px 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.logos{
+    display: flex;
+    justify-content: center;
+    
+
+}
+img{
+    height: 35px;
+    width: 35px;
+    margin: 10px;
+}
+.Follow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+
+}
+a{ display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 15px;
+    background-color:crimson;
+    color:whitesmoke;
+    text-decoration: none;
+}
+

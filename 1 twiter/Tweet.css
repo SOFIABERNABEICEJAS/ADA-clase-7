@@ -1,0 +1,53 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: slategray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+main{
+    
+    height:250px;
+    width: 650px;
+    background: white;
+    border-radius: 10px;
+    padding: 10px 20px 20px 20px;
+    font-size: 15px;
+   
+
+
+}
+.header{
+    display: flex;
+    
+}
+h2 h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+
+img{
+
+    height:75px;
+    width: 60px;
+    margin:15px  
+
+}
+
+.likes{
+    display: flex;
+    
+}
+.likes1{
+    margin: 8px;
+
+}
+.likes2{
+    margin: 8px;
+
+}

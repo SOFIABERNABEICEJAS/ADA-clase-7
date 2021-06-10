@@ -1,0 +1,58 @@
+html, body, main{
+    height: 100%;
+    margin: 0%;
+    
+}
+header{
+    height: 60px;
+    color: rgb(22, 6, 22);
+    font-size: xx-large ;
+    background-color: rosybrown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor{
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.grande{
+    width: 70%;
+    height: 100%;
+    background-color: transparent;
+    color: rgb(22, 6, 22);
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.chico{
+    width: 30%;
+    height: 100%;
+    background-color: palevioletred;
+    color: rgb(22, 6, 22);
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+footer{
+    
+    height: 60px;
+    background-color: rgb(196, 124, 196);
+    color: rgb(22, 6, 22);
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    
+
+
